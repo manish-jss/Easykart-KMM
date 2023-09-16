@@ -18,7 +18,7 @@
 ## About
 It simply loads **Posts** data from API.  
 - Clean and Simple Material UI.
-- It supports dark theme too 🌗.
+- This app works on both Ios and Android 🌗.
 
 *Dummy API is used in this app. API documentation is [here](https://fakestoreapi.com/docs)*.
 
