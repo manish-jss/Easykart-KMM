@@ -1,7 +1,7 @@
 <p align="center">
 <img src="/art/app_logo.png"/>
 </p>
-<h1 align="center"># Easykart 👜 </h1>
+<h1 align="center"># Easykart (Kotlin Multiplatform Mobile) 👜 </h1>
 
 <p align="center">  
 **Easykart-KMM** is a simple and sample mobile application built to demonstrate the use of Kotlin Multiplatform Mobile for developing Android and iOS applications 👜 .
