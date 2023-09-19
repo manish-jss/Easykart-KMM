@@ -11,7 +11,6 @@
 ## Screenshot 📱
 <p>
 <img src="/art/ss1.jpeg" width="220" height="450"/>
-<img src="/art/ss2.jpeg" width="220" height="450"/>
 </p>
 
 
@@ -30,7 +29,7 @@ It simply loads **Posts** data from API.
 - Kotlinx
   - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines): For multithreading
   - [Serialization](https://github.com/Kotlin/kotlinx.serialization): For JSON serialization/deserailization
-- [Ktor Client](https://github.com/ktorio/ktor): Performing HTTP requests, Creating image loading utility for iOS module.
+- [Ktor Client](https://github.com/ktorio/ktor): Performing HTTP requests.
 - [Kamel](https://github.com/Kamel-Media/Kamel): Image loading for Compose Multiplatform.
 - [Moko-MVVM](https://github.com/icerockdev/moko-mvvm): For Model-View-ViewModel architecture.  
 
