@@ -1,4 +1,4 @@
-package ui
+package ui.screens
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.clickable
